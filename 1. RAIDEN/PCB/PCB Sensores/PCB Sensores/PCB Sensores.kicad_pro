@@ -666,7 +666,7 @@
         "uuid": "92d7a8d4-23ce-4067-9f2b-9dbffca089d7"
       }
     ],
-    "used_designators": "Driver_Conn_1-6,D1-9,#PWR1-43,+12V_1-2,Sensor_1-13,A1-6,C1-6,H1-4,J1-7,R1-9,SW1,U1,Alimentação1",
+    "used_designators": "Driver_Conn_1-6,D1-9,#PWR1-43,+12V_1-2,Sensor_1-13,A1-6,C1-6,H1-4,J1-7,R1-13,SW1,U1,Alimentação1-2",
     "variants": []
   },
   "sheets": [
